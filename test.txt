@@ -4,3 +4,4 @@ merge conflict?
 9876
 ollah
 nog meer text
+nog^2 meer text
